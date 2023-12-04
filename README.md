@@ -22,7 +22,7 @@ PHP as the server-side scripting language<br>
 <h3>Installation and Usage</h3><br>
 ->To install and run the application, you need to have a web server that supports PHP and MySQL. You can use XAMPP, WAMP, or any other similar software.<br>
 <br>
-<h3>Download or clone the repository from GitHub</h3>h3><br>
+<h3>Download or clone the repository from GitHub</h3><br>
 -> Copy the folder to the web server’s root directory (e.g. htdocs for XAMPP)<br>
 -> Create a database named inventory and import the SQL file from the database folder<br>
 -> Use the default username admin and password admin to log in as the administrator<br>
