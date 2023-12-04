@@ -10,7 +10,7 @@ This is a web-based application that manages the inventory of a mall. It can per
 -> Sending notifications and alerts<br>
 -> The only feature that is not implemented is the payment method.<br>
 <br>
-<h3>Technologies Used</h3>h3><br>
+<h3>Technologies Used</h3><br>
 -> The application is built using the following technologies:<br>
 <br>
 PHP as the server-side scripting language<br>
